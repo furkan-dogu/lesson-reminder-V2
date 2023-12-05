@@ -8,7 +8,7 @@ Lesson Reminder Application is a web application designed with React to help use
 
 ## Live Project Link
 
-You can access the live version of the project [here]().
+You can access the live version of the project [here](https://les-rem-v2.vercel.app/).
 
 ```
 Lesson Reminder (folder)
@@ -40,9 +40,9 @@ SOLUTION
 ## Screenshots
 
 <div align="center">
-  <img src="./public/assets/Screenshot_1.jpg"  width="30%" height="350" />
-  <img src="./public/assets/Screenshot_2.jpg"  width="60%" height="550" />
-  <img src="./public/assets/Screenshot_3.jpg"  width="90%" height="400" />
+  <img src="./public/assets/Screenshot_1.jpg"  width="35%" height="500" />
+  <img src="./public/assets/Screenshot_2.jpg"  width="55%" height="500" />
+  <img src="./public/assets/Screenshot_3.jpg"  width="90.5%" height="500" />
 </div>
 
 ## Compatibility
